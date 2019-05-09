@@ -1,10 +1,10 @@
 <?php
 
 include('db.php');
-$nombre = '';
-$telefono= '';
-$direccion = '';
-$ubicacion= '';
+//$nombre = '';
+//$telefono= '';
+//$direccion = '';
+//s$ubicacion= '';
 
 
 if(isset($_GET['nit'])){

@@ -1,5 +1,5 @@
 <?php
-//starting seccion
+//starting sesio
 session_start();
 
 //Connection with Database
